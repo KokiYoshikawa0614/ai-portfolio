@@ -74,13 +74,15 @@
       "type": "個人開発",
       "title": "音声AIと、\n業務をつなぐ。",
       "name": "自動架電システム",
-      "description": "電話と音声AIを連携させるシステムを個人開発。通話内容の分析、履歴の記録、進行状況を確認する管理画面などを実装しました。",
+      "description": "Twilio・ElevenLabsを連携した自動架電システムを個人開発。リード取得、音声対話、OpenAIによる通話分析、Google Sheetsへの記録、条件付きフォローメール送信までを実装しました。",
       "tags": [
-        "音声AI",
-        "API連携",
-        "管理画面"
+        "Twilio / ElevenLabs",
+        "Node.js / WebSocket",
+        "Google Workspace連携"
       ],
-      "note": "個人開発としての紹介です。企業への導入実績ではありません。"
+      "note": "個人開発としての紹介です。企業への導入実績ではありません。",
+      "detail": "voice.html",
+      "detailLabel": "デモ動画・システム構成を見る →"
     },
     {
       "id": "curriculum",

@@ -22,6 +22,6 @@ assert '{{' not in page, 'Unresolved template field'
 out = ROOT / 'public'
 out.mkdir(exist_ok=True)
 (out / 'index.html').write_text(page, encoding='utf-8')
-for name in ('style.css','app.js','training.html','training-flow.svg','training-timeline.svg','training-avatar.svg','halucination.html','film.js','pixverse.html','domo-ads.html'):
+for name in ('style.css','app.js','training.html','training-flow.svg','training-timeline.svg','training-avatar.svg','halucination.html','film.js','pixverse.html','domo-ads.html','voice.html'):
     (out / name).write_text((ROOT / name).read_text(encoding='utf-8'), encoding='utf-8')
 print(f'Built {len(cards)} projects: {out / "index.html"}')
