@@ -58,13 +58,15 @@
       "type": "受託制作",
       "title": "生成AIを、\n広告の表現に。",
       "name": "BtoB向けSNS広告動画",
-      "description": "動画生成AIを活用したBtoB向けSNS広告動画を複数制作しました。",
+      "description": "DomoAIを使ったBtoB向け縦型SNS広告を複数制作。楽曲に合わせたショット設計、人物の一貫性を保つ参照画像、動画生成・リップシンク、Premiere Proでの編集とCTAへの接続まで取り組みました。",
       "tags": [
-        "BtoB",
-        "SNS広告",
-        "AI動画制作"
+        "DomoAI",
+        "縦型SNS広告",
+        "Premiere Pro"
       ],
-      "note": "クライアントへ譲渡した広告素材・納品動画は掲載していません。"
+      "note": "クライアントへ譲渡した広告素材・納品動画は掲載していません。",
+      "detail": "domo-ads.html",
+      "detailLabel": "構成・生成・編集の流れを見る →"
     },
     {
       "id": "voice",
